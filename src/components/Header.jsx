@@ -1,4 +1,4 @@
-import logo from "../assets/Investment-calculator-logo.png";
+import logo from "../assets/investment-calculator-logo.png";
 const Header = () => {
     return <header id="header">
         <img src={logo} alt="logo showing a money bag" />
